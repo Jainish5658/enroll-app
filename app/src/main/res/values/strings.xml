@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">jainish</string>
+    <string name="Roll_number">Roll_number</string>
+    <string name="Name">Name</string>
+    <string name="Enroll">Enroll</string>
+    <string name="welcome_to_enroll_app">welcome to Enroll app</string>
+    <string name="next">next</string>
+    <string name="string_next" />
+    <string name="please_wait">please wait...</string>
+</resources>
